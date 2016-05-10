@@ -1,0 +1,4 @@
+Pass_Go 200.0 135
+Reading_RR -50.0 136
+Connecticut -120.0 137
+Chance 25.0 138
